@@ -14,7 +14,7 @@ joblib==0.15.1
 mime==0.1.0
 murmurhash==1.0.2
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.4
 pdfminer==20191125
 pdfminer.six==20200517
